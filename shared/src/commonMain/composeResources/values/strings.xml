@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_title">KMP News</string>
+    <string name="tab_top">Top</string>
+    <string name="tab_new">New</string>
+    <string name="tab_best">Best</string>
+    <string name="tab_saved">Saved</string>
+    <string name="back">Back</string>
+    <string name="open_article">Open article</string>
+    <string name="comments">Comments</string>
+    <string name="retry">Retry</string>
+    <string name="empty_saved">No saved stories yet. Tap the heart on a story to save it.</string>
+    <string name="error_generic">Couldn't load stories. Check your connection and try again.</string>
+    <string name="no_comments">No comments yet.</string>
+</resources>
